@@ -1,4 +1,16 @@
-# math 
+# math    
+In order to run this script you are required pip and sigfig package installed.
+ 
+To install and run pip 
+
+```curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py``` 
+
+```python3 pip-get.py```
+ 
+then install the module sigfig using this command 
+
+```pip install sigfig```
+
 A)  Finding root of the equation using Bisection method. 
     
    1) python3  bisection.py (write on terminal and hit enter to run the script) 
